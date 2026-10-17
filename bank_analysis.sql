@@ -1,0 +1,2 @@
+-- bank_analysis.sql
+-- Database, tables, sample data, and SQL queries
